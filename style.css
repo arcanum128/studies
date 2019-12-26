@@ -110,12 +110,18 @@ body {
   background-position: left;
 }
 
+.skills-list .skill-design {
+    background-image: url("img/graphic-design.svg");
+    background-size: 24px;
+    background-position: left 3px;
+}
+
 .skill-html {
-  background-image: url("img/icon-html.svg");
+    background-image: url("img/icon-html.svg");
 }
 
 .skill-css {
-  background-image: url("img/icon-css.svg");
+    background-image: url("img/icon-css.svg");
 }
 
 .level {
@@ -192,3 +198,5 @@ body {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
 }
+
+
